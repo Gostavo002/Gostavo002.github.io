@@ -1,0 +1,124 @@
+/*hoja de estilos*/
+body {
+    background-color: blanchedalmond;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font: weight 400;
+    font-style: normal;
+    font-size: 17px;
+}
+
+h1 {
+    color: rgb(161, 58, 11);
+    font-family: "Bangers", system-ui;
+    font-optical-sizing: auto;
+    font: weight 800;
+    font-style: normal;
+    text-indent: 20px;
+    font-size: 65px;
+    letter-spacing: 4px;
+    text-decoration: double;
+}
+
+h2 {
+    color: rgb(97 0 172);
+    background-color: rgb(173, 113, 0);
+}
+
+li {
+    font-family: "Bakbak One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+.color-titulo {
+    color: rgb(235, 231, 13);
+}
+
+.color-titulo2 {
+    color: rgb(235, 231, 13);
+}
+
+#contacto {
+    background-color: rgb(97 0 172);
+}
+
+#redes {
+    background-color: rgb(97 0 172)
+}
+
+#r {
+    color: rgb(255, 0, 0);
+    background-color: rgb(44, 76, 117)
+}
+
+.encabesado-right {
+    text-align: right;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+
+footer {
+    background-color: rgb(44, 90, 117);
+}
+
+.centrador {
+    text-align: center;
+}
+
+.footer2 {
+    text-indent: 10px;
+    text-align: center;
+}
+
+.redesfoot {
+    text-align: center;
+    text-indent: 50;
+}
+
+.aliniear_R {
+    text-align: right;
+}
+
+table {
+    background-color: cadetblue
+}
+
+thead {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+    background-color: rgb(16, 73, 122);
+    color: rgb(221, 221, 71);
+}
+
+tbody {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(110, 46, 0);
+}
+
+tr {
+    text-align: center;
+}
+
+.thformulario {
+    background-color: darkseagreen;
+}
+
+.tdformulario {
+    background-color: rgb(216, 200, 200);
+    color: peru;
+}
+
+.lista{
+    width:200px;
+    height: auto;
+}
